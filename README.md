@@ -231,3 +231,45 @@ FileStreamProcessor: Основной класс обработки. Читае�
 Процесс обработки: Чтение всех строк из файла, Разделение на имя и номер -> Удаление записей без номеров или с некорректными номерами -> Приведение имен к формату "Иван" (первая буква заглавная) -> Группировка имен по номерам
 
 Пример: Из файла с содержимым "Вася:5", "Петя:3", "Аня:5" получится {5=["Вася", "Аня"], 3=["Петя"]}
+
+
+ТЕСТИРОВАНИЕ:
+
+Задание 1:
+<img width="472" height="625" alt="Снимок экрана 2025-11-10 в 08 42 56" src="https://github.com/user-attachments/assets/cc724d18-cf17-47ff-ab2b-f40ac74bede1" />
+<img width="435" height="478" alt="Снимок экрана 2025-11-10 в 08 44 11" src="https://github.com/user-attachments/assets/36629876-7afe-47d8-9abf-51bfc58250aa" />
+
+Задание 2:
+<img width="514" height="613" alt="Снимок экрана 2025-11-10 в 08 46 14" src="https://github.com/user-attachments/assets/157d8656-7b18-4d7c-ae8e-60846496e654" />
+<img width="411" height="352" alt="Снимок экрана 2025-11-10 в 08 47 11" src="https://github.com/user-attachments/assets/25423655-e2ff-4116-9363-3ee959636164" />
+
+Задание 3:
+<img width="494" height="492" alt="Снимок экрана 2025-11-10 в 08 52 59" src="https://github.com/user-attachments/assets/f984c51f-2605-4e24-b02d-ccb9cccf2ba0" />
+<img width="558" height="523" alt="Снимок экрана 2025-11-10 в 08 53 11" src="https://github.com/user-attachments/assets/25c035f0-2797-45b1-ba83-a81a9163f220" />
+
+Задание 4:
+<img width="451" height="397" alt="Снимок экрана 2025-11-10 в 08 58 31" src="https://github.com/user-attachments/assets/c71d4b07-852a-448c-bbaf-16403c38f61f" />
+<img width="483" height="458" alt="Снимок экрана 2025-11-10 в 08 58 49" src="https://github.com/user-attachments/assets/b4e641fb-2ba3-48ac-aed0-60588f3feb1b" />
+<img width="513" height="359" alt="Снимок экрана 2025-11-10 в 08 59 02" src="https://github.com/user-attachments/assets/9b2b24bf-cbc0-4547-a1e5-6c0b4de3ee0c" />
+
+
+Задание 5:
+<img width="397" height="415" alt="Снимок экрана 2025-11-10 в 08 59 52" src="https://github.com/user-attachments/assets/10a20dac-12eb-4cb8-8434-e74c9e1ce7a6" />
+<img width="480" height="306" alt="Снимок экрана 2025-11-10 в 09 00 10" src="https://github.com/user-attachments/assets/33103df3-2626-4089-8b04-bc680097a4e3" />
+<img width="932" height="407" alt="Снимок экрана 2025-11-10 в 09 00 23" src="https://github.com/user-attachments/assets/d8dfa801-0b90-4b88-bfc6-3c865900fedb" />
+
+Задание 6:
+<img width="479" height="380" alt="Снимок экрана 2025-11-10 в 09 01 53" src="https://github.com/user-attachments/assets/8d88c0d8-adc0-4ee6-bb77-172af8b3e774" />
+<img width="482" height="349" alt="Снимок экрана 2025-11-10 в 09 02 04" src="https://github.com/user-attachments/assets/c12ac487-e3f7-446b-a29b-a9110bec86d2" />
+<img width="449" height="406" alt="Снимок экрана 2025-11-10 в 09 02 33" src="https://github.com/user-attachments/assets/62834cac-43c2-483b-989e-6d079aaa6f79" />
+<img width="415" height="389" alt="Снимок экрана 2025-11-10 в 09 03 03" src="https://github.com/user-attachments/assets/95c986b1-71fa-4ce2-8f84-a2887634ee7b" />
+
+Задание 7.1:
+<img width="766" height="376" alt="Снимок экрана 2025-11-10 в 09 03 39" src="https://github.com/user-attachments/assets/a640de63-c701-4ad3-b9d1-1f79bbe94651" />
+<img width="736" height="333" alt="Снимок экрана 2025-11-10 в 09 03 55" src="https://github.com/user-attachments/assets/ad042a15-9879-4568-b467-5ceb25a5f5e3" />
+<img width="909" height="333" alt="Снимок экрана 2025-11-10 в 09 04 14" src="https://github.com/user-attachments/assets/d33bab35-c033-401d-95b1-950ed1c9b990" />
+<img width="597" height="395" alt="Снимок экрана 2025-11-10 в 09 05 15" src="https://github.com/user-attachments/assets/85b1f318-1a04-4066-aa1a-53db9dddd784" />
+
+Задание 7.2:
+<img width="488" height="581" alt="Снимок экрана 2025-11-10 в 09 05 53" src="https://github.com/user-attachments/assets/04930a19-39f1-4582-96d9-d76abdd34327" />
+<img width="505" height="588" alt="Снимок экрана 2025-11-10 в 09 06 07" src="https://github.com/user-attachments/assets/5bf0075f-1280-41f4-ba8c-dd080b9a5935" />
